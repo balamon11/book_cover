@@ -33,7 +33,6 @@ views.py
 
 from django.shortcuts import render
 
-# Create your views here.
 def book(request):
 return render(request,'book.html')
 
@@ -92,5 +91,8 @@ book.html
 
 
 # OUTPUT:
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d6f44e69-dfb4-4a0b-8bde-a71120040f83" />
+
 # RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
